@@ -1,9 +1,11 @@
 uProfile Project
 
 Initiated in iOS App Challenge in CMU
+
 Copyright (c) 2014 law-liet. All rights reserve.
 
 Created by law-liet
+
 Developed by law-liet, Chuan Liu, Jianing Qian
 
 =======
